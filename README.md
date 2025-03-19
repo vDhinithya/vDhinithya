@@ -43,7 +43,6 @@ A URL shortening service for efficient link management.
 ## 👨‍💻 Connect with Me
 
 - **LinkedIn:** [Dhinithya Verma](https://www.linkedin.com/in/dhinithya-verma-b72060329/)
-- **GitHub:** [vDhinithya](https://github.com/vDhinithya)
 - **Email:** dhinthya12@gmail.com
 
 💡 *Always eager to collaborate and learn new technologies!*
