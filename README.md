@@ -9,22 +9,38 @@
         <h1>🚀 About Me</h1>
     </div>
     <p>I'm <strong>Dhinithya Verma</strong>, passionate <strong>Java Backend Developer</strong> with expertise in <strong>Spring Boot</strong>. Currently, I'm a student at <strong>International Institute of Professional Studies (IIPS), DAVV, Indore</strong>, where I'm continuously enhancing my skills in <strong>backend development and distributed systems</strong>.</p>
-    <h2>💻 Tech Stack</h2>
-    <ul>
-         <div class="gif">
-            <img align = "right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="GIF">
-        </div>
-        <li><strong>Languages:</strong> Java, SQL</li>
-        <li><strong>Frameworks:</strong> Spring Boot</li>
-        <li><strong>Databases:</strong> MySQL, MongoDB</li>
-        <li><strong>Cloud & Tools:</strong> Postman, Docker, Git, AWS (Learning)</li>
-    </ul>
-    <h2>🌱 Currently Learning</h2>
-    <ul>
-        <li>Cloud Computing ☁️</li>
-        <li>Advanced Spring Boot Features ⚙️</li>
-        <li>Microservices Architecture 🔗</li>
-    </ul>
+  
+
+## 💻 Tech Stack
+<img align="right" alt="coding" height="300px" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
+### 🚀 Languages:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg" alt="css" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
+  
+</p>
+
+### ⚙️ Frameworks:
+<p align="left">
+  <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/thymeleaf.svg" alt="thymleaf" width="40" height="40"/>  
+</p>
+
+### 🛢️ Databases:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
+
+### 🧰 Tools & Cloud:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+</p>
     <h2>🔥 Projects</h2>
     <h3>📚 JournalApp</h3>
     <p>A <strong>Spring Boot + MongoDB</strong> application that allows users to create and manage journal entries securely.</p>
