@@ -6,14 +6,14 @@
 </head>
 <body>
   <div class="center">
-        <div class="gif">
-            <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="GIF">
-        </div>
         <h1>🚀 About Me</h1>
     </div>
     <p>I'm <strong>Dhinithya Verma</strong>, passionate <strong>Java Backend Developer</strong> with expertise in <strong>Spring Boot</strong>. Currently, I'm a student at <strong>International Institute of Professional Studies (IIPS), DAVV, Indore</strong>, where I'm continuously enhancing my skills in <strong>backend development and distributed systems</strong>.</p>
     <h2>💻 Tech Stack</h2>
     <ul>
+         <div class="gif">
+            <img align = "right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="GIF">
+        </div>
         <li><strong>Languages:</strong> Java, SQL</li>
         <li><strong>Frameworks:</strong> Spring Boot</li>
         <li><strong>Databases:</strong> MySQL, MongoDB</li>
