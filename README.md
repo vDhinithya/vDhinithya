@@ -32,7 +32,7 @@
         <li><strong>Tech Stack:</strong> Spring Boot, MongoDB, REST API</li>
         <li><strong>Features:</strong> User authentication, journal entry management, transaction support</li>
     </ul>
-    <h3>🔗 Link Shortener</h3>
+    <h3><a href="https://github.com/vDhinithya/URL_Shortner"> 🔗 Link Shortener </a></h3>
     <p>A URL shortening service for efficient link management.</p>
     <ul>
         <li><strong>Tech Stack:</strong> Spring Boot, MongoDB</li>
