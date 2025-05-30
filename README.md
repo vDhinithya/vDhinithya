@@ -13,6 +13,7 @@
 
 ## 💻 Tech Stack
 <img align="right" alt="coding" height="300px" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
+
 ### 🚀 Languages:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
