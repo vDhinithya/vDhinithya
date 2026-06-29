@@ -111,7 +111,10 @@ A privacy-focused backend service designed to ensure data security and integrity
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vDhinithya&show_icons=true&theme=radical&hide_border=true"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=vDhinithya&show_icons=true&theme=radical&hide_border=true"/>-->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vDhinithya&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Streak Stats"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vDhinithya&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
 ---
