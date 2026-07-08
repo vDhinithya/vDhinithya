@@ -124,4 +124,4 @@ A privacy-focused backend service designed to ensure data security and integrity
 I’m actively looking for **Backend Engineer / Software Developer** opportunities where I can contribute to impactful systems.
 
 📧 **Email:** dhinthya12@gmail.com  
-🔗 **LinkedIn:** [Dhinithya Verma](https://www.linkedin.com/in/dhinithya-verma-b72060329/)
+🔗 **LinkedIn:** [Dhinithya Verma](https://www.linkedin.com/in/dhinithya-verma/)
